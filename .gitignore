@@ -1,4 +1,2 @@
 /.vscode
-/public/storage
 /vendor
-composer.lock
